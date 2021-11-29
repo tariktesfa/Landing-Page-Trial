@@ -1,0 +1,36 @@
+body {
+  color: #000;
+}
+
+.background {
+  background-color: #1f2937;
+  margin: 0;
+  color: #fff;
+}
+
+.header li {
+  text-decoration: none;
+  list-style: none;
+}
+
+.hero {
+  font-size: 48px;
+  font-weight: 600;
+  color: #f9faf8;
+}
+
+.quote {
+  background-color: #e5e7eb;
+}
+
+.quote p {
+  font-size: 36px;
+  color: #1f2937;
+}
+
+button {
+  background-color: #3882f6;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 4px;
+}
